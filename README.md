@@ -1,3 +1,8 @@
+**Project Description: QuizMaster - A Redux-Powered Quiz Application**
+
+**Overview**
+QuizMaster is a comprehensive quiz application that allows users to create, manage, and take quizzes on various topics. Leveraging Redux for state management, the application ensures a seamless and consistent user experience by reusing quiz and topic information throughout different components of the app. The project aims to provide an intuitive interface for quiz creation and participation, along with robust state management to handle complex data interactions.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
